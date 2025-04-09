@@ -21,10 +21,8 @@ Assignment/ ├── app/ # Flask application │ ├── app.py │ └─�
 
 ---
 
-✅ Full README.md (Copy & Paste)
-markdown
-Copy
-Edit
+✅ Full README.md 
+
 # 📦 DevOps Assignment – Flask App with CI/CD, Docker, Terraform, and Monitoring
 
 This project is a complete DevOps pipeline that deploys a Python Flask API using Docker, GitHub Actions for CI/CD, Terraform for Infrastructure as Code (IaC), and basic system monitoring for CPU usage.
@@ -56,7 +54,7 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/assignment.git
+git clone https://github.com/Akshay Mehtaa/assignment.git
 cd assignment
 
 2. Run the App Locally with Docker
@@ -69,11 +67,6 @@ Then open: http://localhost:5000
 
 Go to your GitHub repo → Settings → Secrets → Actions → Add these:
 
-Secret Name	Description
-DOCKERHUB_USERNAME	Your DockerHub username
-DOCKERHUB_TOKEN	DockerHub access token/password
-SERVER_SSH_KEY	SSH private key for the VM
-SERVER_IP	Public IP of your VM
 
 4. GitHub Actions Pipeline
 On every push to main, GitHub will:
