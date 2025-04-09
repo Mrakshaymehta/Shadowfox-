@@ -1,0 +1,46 @@
+[ 2025-02-01 23:06:48,005 ] asyncio - DEBUG - Using proactor: IocpProactor
+[ 2025-02-01 23:07:50,563 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,563 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[0:9]
+[ 2025-02-01 23:07:50,563 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[10:14]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[15:36]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[37:47]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[48:66]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[67:68]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[69:90]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[91:92]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[93:108]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[109:114]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[115:135]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[136:141]
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,564 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[142:157]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[158:162]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[163:175]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[176:180]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[181:199]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[200:201]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_start with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_name with data[202:213]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_data with data[214:216]
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_field_end with no data
+[ 2025-02-01 23:07:50,565 ] python_multipart.multipart - DEBUG - Calling on_end with no data
+[ 2025-02-01 23:07:50,565 ] root - INFO - Entered get_usvisa_data_as_dict method as USvisaData class
+[ 2025-02-01 23:07:50,565 ] root - INFO - Created usvisa data dict
+[ 2025-02-01 23:07:50,565 ] root - INFO - Exited get_usvisa_data_as_dict method as USvisaData class
+[ 2025-02-01 23:07:50,565 ] root - INFO - Entered predict method of USvisaClassifier class
